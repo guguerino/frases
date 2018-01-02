@@ -1,12 +1,19 @@
 {
   "frases": [
-    "Te digo que tudo que vi em você é verdadeiro. Isso faz eu me apaixonar ainda mais por você, me faz sentir que realmente você era tudo que faltava em minha vida. Hoje, você é minha razão de viver. O meu hoje, o meu amanhã, o meu eterno amor. Amo você!",
-    "Por varios momentos da minha vida tive medo, mas ao seu lado tenho certezas, e a principal é que quero passar minha vida com você!",
-    "Tudo na vida tem um proposito o meu é cuidar e te proteger por todo o sempre!"
-  ],
-  "imagens": [
-    "http://lampadariodivinopolis.com.br/wp-content/uploads/2016/06/declaracao-de-amor-na-lampadario.jpg",
-    "http://lampadariodivinopolis.com.br/wp-content/uploads/2016/06/declaracao-de-amor-na-lampadario.jpg",
-    "http://lampadariodivinopolis.com.br/wp-content/uploads/2016/06/declaracao-de-amor-na-lampadario.jpg"
+    { 
+      "dia":1,
+      "mensagem": "Te digo que tudo que vi em você é verdadeiro. Isso faz eu me apaixonar ainda mais por você, me faz sentir que realmente você era tudo que faltava em minha vida. Hoje, você é minha razão de viver. O meu hoje, o meu amanhã, o meu eterno amor. Amo você!",
+      "imagem":"http://lampadariodivinopolis.com.br/wp-content/uploads/2016/06/declaracao-de-amor-na-lampadario.jpg"
+    },
+    { 
+      "dia":2,
+      "mensagem": "Por varios momentos da minha vida tive medo, mas ao seu lado tenho certezas, e a principal é que quero passar minha vida com você!",
+      "imagem":"http://lampadariodivinopolis.com.br/wp-content/uploads/2016/06/declaracao-de-amor-na-lampadario.jpg"
+    },
+    { 
+      "dia":3,
+      "mensagem": "Tudo na vida tem um proposito o meu é cuidar e te proteger por todo o sempre!",
+      "imagem":"http://lampadariodivinopolis.com.br/wp-content/uploads/2016/06/declaracao-de-amor-na-lampadario.jpg"
+    }
   ]
 }
