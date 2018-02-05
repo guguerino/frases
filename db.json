@@ -147,33 +147,43 @@
     },
     {
       "dia":30, 
-      "mensagem": "30",
-      "imagem":"https://raw.githubusercontent.com/guguerino/frases/master/2014-06%20Po%C3%A7os(22).jpg"
+      "mensagem": "Não é que você seja diferente, mas é que ninguém consegue ser igual a você.",
+      "imagem":"https://raw.githubusercontent.com/guguerino/frases/master/2014-06%20Divinolandia%20(11).JPG"
     },
     {
       "dia":31, 
-      "mensagem": "31",
-      "imagem":"https://raw.githubusercontent.com/guguerino/frases/master/2014-06%20Po%C3%A7os(22).jpg"
+      "mensagem": "Meu primeiro e o último pensamento do seu dia é você.",
+      "imagem":"https://raw.githubusercontent.com/guguerino/frases/master/2014-06%20Divinolandia%20(6).JPG"
     },
     {
       "dia":32, 
-      "mensagem": "32",
-      "imagem":"https://raw.githubusercontent.com/guguerino/frases/master/2014-06%20Po%C3%A7os(22).jpg"
+      "mensagem": "A alegria de saber que você existe faz-me forte para suportar a tristeza de sua ausência. Eu amo você!",
+      "imagem":"https://raw.githubusercontent.com/guguerino/frases/master/2014-06%20Divinolandia%20(8).jpg"
     },
     {
       "dia":33, 
-      "mensagem": "33",
-      "imagem":"https://raw.githubusercontent.com/guguerino/frases/master/2014-06%20Po%C3%A7os(22).jpg"
+      "mensagem": "Quando se ama não é preciso entender o que se passa lá fora, pois tudo passa a acontecer dentro de nós.",
+      "imagem":"https://raw.githubusercontent.com/guguerino/frases/master/2014-06%20Po%C3%A7os(7).jpg"
     },
     {
       "dia":34, 
-      "mensagem": "34",
-      "imagem":"https://raw.githubusercontent.com/guguerino/frases/master/2014-06%20Po%C3%A7os(22).jpg"
+      "mensagem": "Se você que saber o quanto eu te amo é simples: Multiplique as estrelas do céu pelas gotas dos oceanos.",
+      "imagem":"https://raw.githubusercontent.com/guguerino/frases/master/2014-09-18%20Em%20casa%20(14).jpg"
     },
     {
       "dia":35, 
-      "mensagem": "35",
-      "imagem":"https://raw.githubusercontent.com/guguerino/frases/master/2014-06%20Po%C3%A7os(22).jpg"
+      "mensagem": "O verdadeiro amor nunca se desgasta. Quanto mais se dá mais se tem.",
+      "imagem":"https://raw.githubusercontent.com/guguerino/frases/master/2014-06%20Churrasco.jpg"
+    },
+    {
+      "dia":36, 
+      "mensagem": "Eu te amo, não só agora mas sempre, e sonho com o dia em que você vai me abraçar novamente.",
+      "imagem":"https://github.com/guguerino/frases/raw/master/2014-06%20Dia%20dos%20namorados%20(1).jpg"
+    },
+    {
+      "dia":37, 
+      "mensagem": "Aconteça o que acontecer amanhã, ou para o resto da minha vida, agora estou feliz porque te amo.",
+      "imagem":"https://raw.githubusercontent.com/guguerino/frases/master/2014-06%20ilha%20(2).jpg"
     }
   ]
 }
